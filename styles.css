@@ -80,14 +80,15 @@ body{
     padding: 0;
 
  }
-.mockup{
+.mlg{
     object-fit: cover;
-    width: 48%;
+    width: 100%;
     max-height: 90vh;
+
 }
 
 .hero_textos{
-    width: 48%;
+    width: 80%;
 }
 .title{
     font-size: 56px;
