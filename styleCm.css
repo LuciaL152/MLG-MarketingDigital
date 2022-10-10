@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
 
 :root{
-    --rosa1:#ECE5EB; 
-    --Rosa2:#be6caf; 
+    --rosa1:#a0899c; 
+    --Rosa2:#9b52a1; 
     --gray:#ffffff80;
     --gray2:#f7d9d990;
     --black1:#bc7dbe00;
@@ -34,122 +34,10 @@
         width:60%;
     
     }
-    .hero{
-        width: 100%;
-        min-height: 100vh;
-        background: linear-gradient(180deg, #ECE5EB 0%, #be6caf 100%);
-    }
-    .nav_hero{
-        color:rgb(17, 3, 3);
-        height: 70px;
-        border-bottom:1px solid rgba(194, 101, 174, 0.1)
-    
-    }
 
-    .nav__container{
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        height: inherit;
-        padding: 0;
-
-    }
-
-    .logo_name{
-        font-size: 35px;
-        color: #a28822;
-    }
-
-    .link{
-        display: inline-block;
-        color: inherit;
-        text-decoration:none;
-        font-weight: 400;
-        padding: 10px;
-       
-    }
-    .link--active{
-        color:#773b7c;
-        font-weight: 700;
-    
-    }
-    .point{
-        color: var(--rosa1);
-    }
-     .hero__main{
-        height: calc(100vh - 70px);
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        padding: 0;
-     }
-     .Community_Management {
-        object-fit: cover;
-        width: 100%;
-        max-height: 90vh;
-    
-    }
-     
-    .hero_textos{
-        width: 80%;
-    }
-    .title{
-        font-size: 56px;
-        font-weight: 300;
-        color: #fff;
-    }
-    .title--active{
-        color:#24041e;
-        font-weight: 700;
-    }
-    
-.cta{
-    padding: 20px 30px;
-    display: inline-block;
-    background: linear-gradient(180deg, #fc9ced 0%, #e4a9d9 100%);
-    text-decoration: none;
-    color: var(--black2);
-    font-weight: 700;
-    box-shadow: var(--shadow) var(--color_shadow);
-    border-radius: 9px;
-}
-
-
-.footer{
-    background: #fafafa;
-}
-
-.contact{
-    display: flex;
+   .hero2{
     width: 100%;
-    flex-wrap: wrap;
-    color: rgb(238, 226, 226);
-}
+    min-height: 100vh;
+    background: linear-gradient(180deg, #9b52a1 0%, #a0899c 100%);
 
-.item_contact{
-    width: 25%;
-    padding: 60px 0;
-    text-align: center;
-    background : linear-gradient(180deg, #0f1318 0%, #1A1B1F 100%);
-}
-
-.item_contact--gold{
-    background: linear-gradient(180deg, #ECE5EB 0%, #be6caf 100%);
-    color: var(--black1);
-}
-
-.contact_icon{
-    font-size: 25px;
-    color: #ffffff ;
-    line-height: 20px;
-    margin-right: 4px;
-}
-.contact_icon--modifier{
-    color: #1A1B1F;
-}
-
-.contact_title{
-    font-size: 16px;
-    line-height: 20px;
-    color: #773b7c;
 }
