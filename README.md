@@ -1,6 +1,6 @@
 <h1> Hola! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 
-## Codo a Codo 4.0 Comisión 2519
+## Codo a Codo - Comisión 22519
 
 
 ### Lenguajes y herramientas:
