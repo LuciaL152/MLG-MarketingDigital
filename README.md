@@ -4,8 +4,6 @@
 
 ## Grupo de Marketing Digital
 
-##hola
-
 
 ### Lenguajes y herramientas:
 <p>
